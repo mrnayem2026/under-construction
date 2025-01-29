@@ -225,8 +225,8 @@ input.input100 {
 [ M-Text 16 - 25 ]*/
 .m1-txt1 {
   font-family: Barlow-Bold;
-  font-size: 25px;
-  color: #999999;
+  font-size: 35px;
+  color: #000000;
   line-height: 1.2;
 }
 
@@ -330,6 +330,7 @@ input.input100 {
 }
 .wrappic1 img {
   max-width: 100%;
+  padding-bottom: 15px;
 }
 
 /*---------------------------------------------*/
