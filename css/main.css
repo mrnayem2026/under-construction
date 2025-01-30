@@ -27,9 +27,9 @@ Primary use:
 }
 
 
-body{
+/* body{
   overflow-y: hidden;
-}
+} */
 
 /*//////////////////////////////////////////////////////////////////
 [ RS PLUGIN ]*/
@@ -216,7 +216,7 @@ input.input100 {
 .s1-txt4 {
   font-family: Barlow-Regular;
   font-size: 14px;
-  color: #999999;
+  color: #515151;
   line-height: 1.5;
 }
 
@@ -515,7 +515,7 @@ input.input100 {
 }
 
 .copy-right{
-  color: #999999;
+  color: #515151;
   transition: all ease 0.3s;
   text-decoration: underline;
 }
